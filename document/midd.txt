@@ -1,0 +1,18 @@
+/* */
+        //   $ok= 'ok';
+        //  if($ok== 'ok'){
+        //     return redirect('/registration/admin/supper') ->with('fail','You must be looged in');
+        //  }
+
+
+ 
+        // if(!Session()->has('admin_id') && !Session()->has('admin_role') && ($request->path() != '/login/admin/supper')){
+        //     return redirect('/login/admin/supper') ->with('fail','You must be looged in');
+        //       }
+          
+
+      //  if(Session()->has('admin_id') && Session()->has('admin_role') && ($request->path() == '/login/admin/supper')){
+      //       return back(); 
+      //  }
+	  
+	   
